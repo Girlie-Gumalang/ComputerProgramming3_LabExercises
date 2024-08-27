@@ -1,0 +1,7 @@
+C:\Users\Girlie Anne\source\repos\StudentGradeApplication\StudentGradeApplication\bin\Debug\StudentGradeApplication.exe.config
+C:\Users\Girlie Anne\source\repos\StudentGradeApplication\StudentGradeApplication\bin\Debug\StudentGradeApplication.exe
+C:\Users\Girlie Anne\source\repos\StudentGradeApplication\StudentGradeApplication\bin\Debug\StudentGradeApplication.pdb
+C:\Users\Girlie Anne\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.AssemblyReference.cache
+C:\Users\Girlie Anne\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.CoreCompileInputs.cache
+C:\Users\Girlie Anne\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.exe
+C:\Users\Girlie Anne\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\StudentGradeApplication.pdb
