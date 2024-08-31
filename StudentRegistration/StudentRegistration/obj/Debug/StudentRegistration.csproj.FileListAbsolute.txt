@@ -1,0 +1,7 @@
+C:\Users\Girlie Anne\source\repos\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+C:\Users\Girlie Anne\source\repos\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe
+C:\Users\Girlie Anne\source\repos\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+C:\Users\Girlie Anne\source\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\Girlie Anne\source\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Girlie Anne\source\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.exe
+C:\Users\Girlie Anne\source\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
