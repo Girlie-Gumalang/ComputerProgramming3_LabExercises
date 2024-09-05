@@ -1,0 +1,7 @@
+C:\Users\Girlie Anne\source\repos\AppleCost\AppleCost\bin\Debug\AppleCost.exe.config
+C:\Users\Girlie Anne\source\repos\AppleCost\AppleCost\bin\Debug\AppleCost.exe
+C:\Users\Girlie Anne\source\repos\AppleCost\AppleCost\bin\Debug\AppleCost.pdb
+C:\Users\Girlie Anne\source\repos\AppleCost\AppleCost\obj\Debug\AppleCost.csproj.AssemblyReference.cache
+C:\Users\Girlie Anne\source\repos\AppleCost\AppleCost\obj\Debug\AppleCost.csproj.CoreCompileInputs.cache
+C:\Users\Girlie Anne\source\repos\AppleCost\AppleCost\obj\Debug\AppleCost.exe
+C:\Users\Girlie Anne\source\repos\AppleCost\AppleCost\obj\Debug\AppleCost.pdb
