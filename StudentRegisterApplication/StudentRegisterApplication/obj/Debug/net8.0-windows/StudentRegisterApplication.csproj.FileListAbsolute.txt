@@ -1,0 +1,16 @@
+C:\Users\Girlie Anne\source\repos\StudentRegisterApplication\StudentRegisterApplication\bin\Debug\net8.0-windows\StudentRegisterApplication.exe
+C:\Users\Girlie Anne\source\repos\StudentRegisterApplication\StudentRegisterApplication\bin\Debug\net8.0-windows\StudentRegisterApplication.deps.json
+C:\Users\Girlie Anne\source\repos\StudentRegisterApplication\StudentRegisterApplication\bin\Debug\net8.0-windows\StudentRegisterApplication.runtimeconfig.json
+C:\Users\Girlie Anne\source\repos\StudentRegisterApplication\StudentRegisterApplication\bin\Debug\net8.0-windows\StudentRegisterApplication.dll
+C:\Users\Girlie Anne\source\repos\StudentRegisterApplication\StudentRegisterApplication\bin\Debug\net8.0-windows\StudentRegisterApplication.pdb
+C:\Users\Girlie Anne\source\repos\StudentRegisterApplication\StudentRegisterApplication\obj\Debug\net8.0-windows\StudentRegisterApplication.Form1.resources
+C:\Users\Girlie Anne\source\repos\StudentRegisterApplication\StudentRegisterApplication\obj\Debug\net8.0-windows\StudentRegisterApplication.csproj.GenerateResource.cache
+C:\Users\Girlie Anne\source\repos\StudentRegisterApplication\StudentRegisterApplication\obj\Debug\net8.0-windows\StudentRegisterApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Girlie Anne\source\repos\StudentRegisterApplication\StudentRegisterApplication\obj\Debug\net8.0-windows\StudentRegisterApplication.AssemblyInfoInputs.cache
+C:\Users\Girlie Anne\source\repos\StudentRegisterApplication\StudentRegisterApplication\obj\Debug\net8.0-windows\StudentRegisterApplication.AssemblyInfo.cs
+C:\Users\Girlie Anne\source\repos\StudentRegisterApplication\StudentRegisterApplication\obj\Debug\net8.0-windows\StudentRegisterApplication.csproj.CoreCompileInputs.cache
+C:\Users\Girlie Anne\source\repos\StudentRegisterApplication\StudentRegisterApplication\obj\Debug\net8.0-windows\StudentRegisterApplication.dll
+C:\Users\Girlie Anne\source\repos\StudentRegisterApplication\StudentRegisterApplication\obj\Debug\net8.0-windows\refint\StudentRegisterApplication.dll
+C:\Users\Girlie Anne\source\repos\StudentRegisterApplication\StudentRegisterApplication\obj\Debug\net8.0-windows\StudentRegisterApplication.pdb
+C:\Users\Girlie Anne\source\repos\StudentRegisterApplication\StudentRegisterApplication\obj\Debug\net8.0-windows\StudentRegisterApplication.genruntimeconfig.cache
+C:\Users\Girlie Anne\source\repos\StudentRegisterApplication\StudentRegisterApplication\obj\Debug\net8.0-windows\ref\StudentRegisterApplication.dll
