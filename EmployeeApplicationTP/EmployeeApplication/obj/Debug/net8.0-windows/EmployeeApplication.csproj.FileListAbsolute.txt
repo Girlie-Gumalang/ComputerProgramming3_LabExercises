@@ -1,0 +1,16 @@
+C:\Users\Girlie Anne\source\repos\EmployeeApplication\EmployeeApplication\bin\Debug\net8.0-windows\EmployeeApplication.exe
+C:\Users\Girlie Anne\source\repos\EmployeeApplication\EmployeeApplication\bin\Debug\net8.0-windows\EmployeeApplication.deps.json
+C:\Users\Girlie Anne\source\repos\EmployeeApplication\EmployeeApplication\bin\Debug\net8.0-windows\EmployeeApplication.runtimeconfig.json
+C:\Users\Girlie Anne\source\repos\EmployeeApplication\EmployeeApplication\bin\Debug\net8.0-windows\EmployeeApplication.dll
+C:\Users\Girlie Anne\source\repos\EmployeeApplication\EmployeeApplication\bin\Debug\net8.0-windows\EmployeeApplication.pdb
+C:\Users\Girlie Anne\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.csproj.GenerateResource.cache
+C:\Users\Girlie Anne\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Girlie Anne\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.AssemblyInfoInputs.cache
+C:\Users\Girlie Anne\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.AssemblyInfo.cs
+C:\Users\Girlie Anne\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\Girlie Anne\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.dll
+C:\Users\Girlie Anne\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\net8.0-windows\refint\EmployeeApplication.dll
+C:\Users\Girlie Anne\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.pdb
+C:\Users\Girlie Anne\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.genruntimeconfig.cache
+C:\Users\Girlie Anne\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\net8.0-windows\ref\EmployeeApplication.dll
+C:\Users\Girlie Anne\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\net8.0-windows\EmployeeApplication.frmComputeSalary.resources
