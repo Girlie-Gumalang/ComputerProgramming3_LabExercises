@@ -1,0 +1,16 @@
+C:\Users\Girlie Anne\source\repos\ThreadPriority\ThreadPriority\bin\Debug\net8.0-windows\ThreadPriority.exe
+C:\Users\Girlie Anne\source\repos\ThreadPriority\ThreadPriority\bin\Debug\net8.0-windows\ThreadPriority.deps.json
+C:\Users\Girlie Anne\source\repos\ThreadPriority\ThreadPriority\bin\Debug\net8.0-windows\ThreadPriority.runtimeconfig.json
+C:\Users\Girlie Anne\source\repos\ThreadPriority\ThreadPriority\bin\Debug\net8.0-windows\ThreadPriority.dll
+C:\Users\Girlie Anne\source\repos\ThreadPriority\ThreadPriority\bin\Debug\net8.0-windows\ThreadPriority.pdb
+C:\Users\Girlie Anne\source\repos\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.frmTrackThread.resources
+C:\Users\Girlie Anne\source\repos\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.csproj.GenerateResource.cache
+C:\Users\Girlie Anne\source\repos\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Girlie Anne\source\repos\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.AssemblyInfoInputs.cache
+C:\Users\Girlie Anne\source\repos\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.AssemblyInfo.cs
+C:\Users\Girlie Anne\source\repos\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.csproj.CoreCompileInputs.cache
+C:\Users\Girlie Anne\source\repos\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.dll
+C:\Users\Girlie Anne\source\repos\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\refint\ThreadPriority.dll
+C:\Users\Girlie Anne\source\repos\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.pdb
+C:\Users\Girlie Anne\source\repos\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ThreadPriority.genruntimeconfig.cache
+C:\Users\Girlie Anne\source\repos\ThreadPriority\ThreadPriority\obj\Debug\net8.0-windows\ref\ThreadPriority.dll
