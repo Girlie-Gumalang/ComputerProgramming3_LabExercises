@@ -49,7 +49,7 @@ namespace ThreadPriority
 
             // Indicate threads have finished
             label1.Text = "- End Of Thread -";
-            Console.WriteLine("-End of Thread -");
+            Console.WriteLine("- End of Thread -");
         }
     }
 }
